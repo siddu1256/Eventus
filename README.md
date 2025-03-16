@@ -30,7 +30,7 @@ Firebase Authentication ensures secure user registration and login processes whi
 
 To run the app locally or on your device, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/sarthakjadhav22/Cyber-Project`
+1. Clone the repository: `git clone https://github.com/siddu1256/Eventus.git`
 2. Navigate to the project directory
 3. Ensure Flutter is installed on your system. If not, follow the official Flutter installation guide: [Flutter Installation](https://flutter.dev/docs/get-started/install)
 4. Set up Firebase project and add your Firebase configuration to the app. Refer to the Firebase documentation for detailed instructions: [Firebase Documentation](https://firebase.google.com/docs)
@@ -38,6 +38,6 @@ To run the app locally or on your device, follow these steps:
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, feel free to reach out to us at [sarthak22bcy45@iiitkottayam.ac.in]. We'd love to hear from you!
+If you have any questions, suggestions, or feedback, feel free to reach out to us at [siddarthakunta@gmail.com]. We'd love to hear from you!
 
 Thank you for using our Event Management App. Happy organizing!
