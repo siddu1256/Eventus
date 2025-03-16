@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "432394759604",
+    "project_id": "eventus-66041",
+    "storage_bucket": "eventus-66041.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432394759604:android:c11d4048d7ac19e14356e1",
+        "android_client_info": {
+          "package_name": "com.example.mypart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432394759604-0j4a2eal5ber1uv01tjncphp9e97ae9o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mypart",
+            "certificate_hash": "31f55f26a20eb80aaa52f52249ea8854e4c267a3"
+          }
+        },
+        {
+          "client_id": "432394759604-i0npek85f975nunk0r0q4jk5rc79ld6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYLMdydqDgMVosF2ydbI1CgLc7Ku0HGQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432394759604-i0npek85f975nunk0r0q4jk5rc79ld6d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "432394759604-rqvsevq08a90eq95j1atc7l2t001bhbo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mypart.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
